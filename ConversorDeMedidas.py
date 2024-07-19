@@ -1,0 +1,7 @@
+medida = float(input('Uma distância em Quilômetro'))
+print(f'A medida de {medida} metros é igual a {medida*10:.1f}dm')
+print(f'A medida de {medida} metros é igual a {medida*100:.1f}cm')
+print(f'A medida de {medida} metros é igual a {medida*1000:.1f}milimetros')
+print(f'A medida de {medida} metros é igual a {medida/10:.1f} decâmetros')
+print(f'A medida de {medida} metros é igual a {medida/100:.1f} hectômetros')
+print(f'A medida de {medida} metros é igual a {medida/1000:.1f} quilômetros')
