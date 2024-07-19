@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ae1c6f-20d2-4d11-aa0c-e29fa19f26a8" name="Changes" comment="Apredendo sobre como criar um registro de usuário&#10;Colocando em prática o que foi passado nas aulas" />
+    <list default="true" id="c5ae1c6f-20d2-4d11-aa0c-e29fa19f26a8" name="Changes" comment="Apredendo sobre como criar um registro de usuário&#10;Colocando em prática o que foi passado nas aulas">
+      <change afterPath="$PROJECT_DIR$/MediaAritimética.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +48,7 @@
   "keyToString": {
     "Python.CalcularDoisNumeros.executor": "Run",
     "Python.CursoEmVideo.executor": "Run",
+    "Python.MediaAritimética.executor": "Run",
     "Python.Registrando_Usuario.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ToolWindowRun.ShowToolbar": "false",
@@ -83,7 +87,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721347994177</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Apredendo sobre como criar um registro de usuário&#10;Colocando em prática o que foi passado nas aulas">
+      <option name="closed" value="true" />
+      <created>1721348063590</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721348063590</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Apredendo sobre como criar um registro de usuário&#10;Colocando em prática o que foi passado nas aulas">
+      <option name="closed" value="true" />
+      <created>1721348069043</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721348069043</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
